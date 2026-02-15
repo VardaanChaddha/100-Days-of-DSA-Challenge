@@ -1,5 +1,3 @@
-# 100-Days-of-DSA-Challenge
-Documenting my daily code, optimized solutions, and learnings for the 100 Days of DSA challenge.
 # 🚀 100 Days of DSA Challenge
 
 Welcome to my 100 Days of Data Structures and Algorithms repository! This is a log of my daily commitment to mastering problem-solving and foundational computer science concepts.
